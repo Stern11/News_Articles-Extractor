@@ -53,3 +53,12 @@ if __name__ == "__main__":
             print("\n")
     else:
         print("No G20 news found.")
+        
+        
+        
+# from newspaper import Article
+
+# url='https://www.hindustantimes.com/opinion/terms-of-trade-let-s-discuss-india-s-growth-forecast-101697111227702.html'
+
+# art=Article(url)
+# print(art.text)
